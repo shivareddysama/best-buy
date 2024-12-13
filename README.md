@@ -144,3 +144,16 @@ This table lists the docker images for each of the microservices in the project:
 
 
 **VIDEO PRESENTATION** https://youtu.be/TiP22uXXrHE
+
+
+
+
+some screenshots:
+
+cluster created
+![Screenshot 2024-12-12 180240](https://github.com/user-attachments/assets/8e6ff6c0-a8a2-40d2-b77b-f5a4eac8f473)
+Deployed chatgpt 4 dell-e-3
+![Screenshot 2024-12-12 233908](https://github.com/user-attachments/assets/7cd42ef0-12e9-4f8c-b819-5ca5c1b9b1dd)
+Clusters running
+![Screenshot 2024-12-12 233932](https://github.com/user-attachments/assets/c82e6500-9e8a-4670-a99c-36ddce0cf873)
+
