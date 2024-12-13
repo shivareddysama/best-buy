@@ -141,3 +141,6 @@ This table lists the docker images for each of the microservices in the project:
 | Makeline-Service   |https://hub.docker.com/repository/docker/shivareddysama/makeline-service-final/general |
 | Store-Admin        | https://hub.docker.com/repository/docker/shivareddysama/store-admin-final/general |
 | AI-Service         | https://hub.docker.com/repository/docker/shivareddysama/ai-service-final/general |
+
+
+**VIDEO PRESENTATION** https://youtu.be/TiP22uXXrHE
