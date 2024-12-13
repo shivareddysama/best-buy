@@ -115,9 +115,8 @@ kubectl apply -f Deployment_Files/ai-service.yaml -n best-buy-app
 ### Issues and Limitations
 **Azure Service Bus Integration**
    - Replacing RabbitMQ required significant code for message handling.
-**Azure AI Service**
-   - Not able to fix the AI service.
-
+**Cluster pods no showing**
+   - Because of a mismatch between the clusters—the Azure portal is linked to your Azure AKS cluster, but the kubectl context is pointing to a local Kind cluster—pods are visible in Visual Studio Code but not in the Azure portal.
 
 ## Repositories
 This table lists the GitHub repositories for each of the microservices in the project:
